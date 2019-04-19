@@ -1,0 +1,4 @@
+mkdir hdfs-test
+cd hdfs-test
+git init touch README.md
+git add README.md
